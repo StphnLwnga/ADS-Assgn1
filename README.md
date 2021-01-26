@@ -2,7 +2,7 @@
 ### Stephen Mutebi
 ---
 This assignment covers the fundamentals of the `pandas` python data analysis library.  
-Basic usage includes the following steps:
+Basic usage involves the following steps:
 - Importing the package, together with the `NumPy` package that provides functions for working with multidimensional arrays and matrices; and the `maptplotlib` data visualisation package.
 - Loading the data from a source into a Pandas DataFrame.
 - Applying `pandas.DataFrame` methods which provide an overview understanding of the dataset.
