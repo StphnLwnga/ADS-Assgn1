@@ -7,5 +7,6 @@ Basic usage involves the following steps:
 - Loading the data from a source into a Pandas DataFrame.
 - Applying `pandas.DataFrame` methods which provide an overview understanding of the dataset.
 - Cleaning the dataset e.g. purging `NaN` values, stripping out unnecessary characters from values, converting datatypes to their required format.
-- Performing the various mathematical computations on the dataset to obtain variables that can be plotted and visaulized using `matplotlib` 
+- Performing the various mathematical computations on the dataset to obtain variables that can be plotted and visaulized using `matplotlib`  
+If the jupyter notebook is cannot be viewed here, copy and paste the notebook's link to this [nbviewer](https://nbviewer.jupyter.org/)
 
