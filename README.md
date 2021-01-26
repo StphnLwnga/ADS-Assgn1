@@ -9,5 +9,5 @@ Basic usage involves the following steps:
 - Cleaning the dataset e.g. purging `NaN` values, stripping out unnecessary characters from values, converting datatypes to their required format.
 - Performing the various mathematical computations on the dataset to obtain variables that can be plotted and visaulized using `matplotlib`  
 
-If the jupyter notebook is cannot be viewed here, copy and paste the notebook's link to this [nbviewer](https://nbviewer.jupyter.org/)
+If the jupyter notebook cannot be viewed here, copy and paste the notebook's (`.ipynb` file's) link to this [page](https://nbviewer.jupyter.org/).
 
